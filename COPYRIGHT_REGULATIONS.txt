@@ -1,0 +1,74 @@
+COPYRIGHT REGULATIONS
+=====================
+
+1. Ownership
+-----------
+All content, code, and materials in the Campus Navigator application are the exclusive property of Campus Navigator and its licensors. This includes but is not limited to:
+- Source code
+- User interface designs
+- Graphics and images
+- Documentation
+- Database structures
+- APIs and algorithms
+
+2. Third-Party Components
+------------------------
+This project uses the following third-party components:
+- Firebase (Google LLC)
+- IndoorAtlas SDK
+- React Native (Meta Platforms, Inc.)
+- Expo SDK
+Each component is subject to its respective license terms.
+
+3. Usage Restrictions
+--------------------
+- Commercial use requires explicit written permission
+- Modifications must maintain original copyright notices
+- Distribution must include attribution
+- Derivative works must be clearly marked
+
+4. Content Protection
+--------------------
+- Map data © IndoorAtlas
+- University floor plans - Rights reserved by respective institutions
+- POI data - Proprietary to Campus Navigator
+
+5. User-Generated Content
+------------------------
+Users retain ownership of their user-generated content while granting Campus Navigator a license to use, modify, and display such content within the application.
+
+6. Attribution Requirements
+--------------------------
+Any use of Campus Navigator code or components must include:
+- Original copyright notice
+- Link to project repository
+- Statement of changes (if modified)
+
+7. License Compliance
+--------------------
+All usage must comply with:
+- MIT License terms
+- Third-party component licenses
+- Local data protection laws
+
+8. Intellectual Property
+-----------------------
+Protected elements include:
+- Campus Navigator name and logo
+- Navigation algorithms
+- Custom implementations
+- Database schemas
+
+9. Enforcement
+-------------
+Copyright violations will be pursued through:
+- DMCA takedown notices
+- Legal action if necessary
+- Access revocation
+
+10. Contact
+----------
+For copyright inquiries:
+[Contact Information]
+
+Last Updated: 2024

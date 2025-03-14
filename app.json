@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+        }
+      ]
+    ],
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDg9sCSahhWJFfXh02n5_Ky915lyMlO14A"
+        }
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyDg9sCSahhWJFfXh02n5_Ky915lyMlO14A"
+      }
+    }
+  }
+}

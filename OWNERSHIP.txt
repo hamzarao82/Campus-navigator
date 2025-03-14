@@ -1,0 +1,29 @@
+OWNERSHIP DECLARATION
+===================
+
+Creator Information
+-----------------
+Name: Hamza Sarwar
+VU ID: bc210208995
+Program: BSCS
+
+Ownership Statement
+-----------------
+All rights, intellectual property, source code, documentation, designs, and associated materials of the Campus Navigator project are rightfully owned by the creator: Hamza Sarwar.
+
+This includes but is not limited to:
+- All source code
+- Documentation
+- Design assets
+- Project architecture
+- Implementation methods
+- Custom algorithms
+- Project configurations
+
+No part of this project may be reproduced, distributed, or modified without explicit permission from the creator.
+
+Declaration
+----------
+I, Hamza Sarwar (bc210208995), declare that I am the rightful owner and creator of this project and all its components.
+
+Date: 2024

@@ -1,0 +1,27 @@
+openapi: 3.0.0
+info:
+  title: Campus Navigator API
+  version: 1.0.0
+paths:
+  /api/search:
+    get:
+      summary: Search POIs
+      parameters:
+        - name: query
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful response
+        '429':
+          description: Too many requests
+  /api/navigation:
+    get:
+      summary: Get navigation data
+      responses:
+        '200':
+          description: Navigation data
+        '401':
+          description: Unauthorized

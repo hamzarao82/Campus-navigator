@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Existing entries -->
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>We need your location for indoor navigation</string>
+  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+  <string>We need your location for continuous indoor navigation</string>
+  <key>NSBluetoothAlwaysUsageDescription</key>
+  <string>We use Bluetooth for improved indoor positioning</string>
+  <key>NSBluetoothPeripheralUsageDescription</key>
+  <string>We use Bluetooth for improved indoor positioning</string>
+  <key>UIBackgroundModes</key>
+  <array>
+    <string>location</string>
+    <string>bluetooth-central</string>
+  </array>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+android {
+    defaultConfig {
+        // Add these to your defaultConfig block
+        manifestPlaceholders = [
+            INDOORATLAS_API_KEY: project.hasProperty('INDOORATLAS_API_KEY') ? INDOORATLAS_API_KEY : '',
+            INDOORATLAS_API_SECRET: project.hasProperty('INDOORATLAS_API_SECRET') ? INDOORATLAS_API_SECRET : ''
+        ]
+    }
+}
+
+dependencies {
+    implementation "com.indooratlas.android:indooratlas-android-sdk:3.5.5"
+    implementation "com.google.android.gms:play-services-location:21.0.1"
+}
